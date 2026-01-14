@@ -8,7 +8,7 @@
 ## Weapons
 - [ ] Magnifying Glass
 - [ ] Brass Candlestick
-- [ ] Glass Bottle
+- [X] Glass Bottle
 
 ## Notes
 *Use this space to record your findings and deductions...*
