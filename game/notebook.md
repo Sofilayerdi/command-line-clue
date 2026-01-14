@@ -6,7 +6,7 @@
 - [ ] The Mayor
 
 ## Weapons
-- [ ] Magnifying Glass
+- [X] Magnifying Glass
 - [ ] Brass Candlestick
 - [X] Glass Bottle
 
