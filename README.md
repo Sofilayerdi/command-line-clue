@@ -114,3 +114,9 @@ cat clue.txt   # Read the next clue
 - Keep track of which suspects and weapons you've crossed off
 
 Happy investigating, Detective! The town is counting on you to solve this mystery!
+
+
+##Entrega final
+- The Innkeeper
+- Brass Candlestick
+- Greenhouse
