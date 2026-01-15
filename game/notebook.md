@@ -1,9 +1,9 @@
 # Detective's Notebook
 
 ## Suspects
-- [ ] The Police Officer
+- [X] The Police Officer
 - [ ] The Innkeeper
-- [ ] The Mayor
+- [X] The Mayor
 
 ## Weapons
 - [X] Magnifying Glass
